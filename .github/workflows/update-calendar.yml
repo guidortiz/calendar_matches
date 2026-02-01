@@ -35,7 +35,7 @@ jobs:
       - name: Prepare public directory
         run: |
           mkdir -p public
-          cp futbol-argentina.ics public/
+          cp invite.ics public/
           cat > public/index.html << 'EOF'
           <!DOCTYPE html>
           <html lang="es">
