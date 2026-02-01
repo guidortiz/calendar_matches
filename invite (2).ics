@@ -1,0 +1,726 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Futbol Argentina Calendar//github.io//
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Futbol Argentina - River\, Boca y Seleccion
+X-WR-TIMEZONE:America/Argentina/Buenos_Aires
+BEGIN:VEVENT
+SUMMARY:Boca Juniors vs Newell's Old Boys (Liga Profesional de Fútbol)
+DTSTART:20260201T221500Z
+DTEND:20260202T001500Z
+DTSTAMP:20260201T213613Z
+UID:390566176916356335@futbol-calendar.github.io
+DESCRIPTION:Competencia: Liga Profesional de Fútbol\nLocal: Boca Juniors\
+ nVisitante: Newell's Old Boys\nEstadio: Por confirmar\n\nCalendario genera
+ do automaticamente
+LOCATION:Por confirmar
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Rosario Central vs River Plate (Liga Profesional de Fútbol)
+DTSTART:20260202T003000Z
+DTEND:20260202T023000Z
+DTSTAMP:20260201T213613Z
+UID:6208452323441700935@futbol-calendar.github.io
+DESCRIPTION:Competencia: Liga Profesional de Fútbol\nLocal: Rosario Centr
+ al\nVisitante: River Plate\nEstadio: Por confirmar\n\nCalendario generado 
+ automaticamente
+LOCATION:Por confirmar
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:River Plate vs Tigre (Liga Profesional de Fútbol)
+DTSTART:20260207T230000Z
+DTEND:20260208T010000Z
+DTSTAMP:20260201T213613Z
+UID:4089287727350984269@futbol-calendar.github.io
+DESCRIPTION:Competencia: Liga Profesional de Fútbol\nLocal: River Plate\n
+ Visitante: Tigre\nEstadio: Por confirmar\n\nCalendario generado automatica
+ mente
+LOCATION:Por confirmar
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Vélez Sarsfield vs Boca Juniors (Liga Profesional de Fútbol)
+DTSTART:20260209T011500Z
+DTEND:20260209T031500Z
+DTSTAMP:20260201T213613Z
+UID:4917812895362357174@futbol-calendar.github.io
+DESCRIPTION:Competencia: Liga Profesional de Fútbol\nLocal: Vélez Sarsfi
+ eld\nVisitante: Boca Juniors\nEstadio: Por confirmar\n\nCalendario generad
+ o automaticamente
+LOCATION:Por confirmar
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Argentinos Juniors vs River Plate (Liga Profesional de Fútbol)
+DTSTART:20260213T001500Z
+DTEND:20260213T021500Z
+DTSTAMP:20260201T213613Z
+UID:7105511947685851901@futbol-calendar.github.io
+DESCRIPTION:Competencia: Liga Profesional de Fútbol\nLocal: Argentinos Ju
+ niors\nVisitante: River Plate\nEstadio: Por confirmar\n\nCalendario genera
+ do automaticamente
+LOCATION:Por confirmar
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Boca Juniors vs Platense (Liga Profesional de Fútbol)
+DTSTART:20260215T223000Z
+DTEND:20260216T003000Z
+DTSTAMP:20260201T213613Z
+UID:3326825127442518392@futbol-calendar.github.io
+DESCRIPTION:Competencia: Liga Profesional de Fútbol\nLocal: Boca Juniors\
+ nVisitante: Platense\nEstadio: Por confirmar\n\nCalendario generado automa
+ ticamente
+LOCATION:Por confirmar
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:River Plate vs Ciudad de Bolívar (Copa Argentina)
+DTSTART:20260217T030000Z
+DTEND:20260217T050000Z
+DTSTAMP:20260201T213613Z
+UID:7862608691389954511@futbol-calendar.github.io
+DESCRIPTION:Competencia: Copa Argentina\nLocal: River Plate\nVisitante: Ci
+ udad de Bolívar\nEstadio: Por confirmar\n\nCalendario generado automatica
+ mente
+LOCATION:Por confirmar
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Boca Juniors vs Racing Club (Liga Profesional de Fútbol)
+DTSTART:20260220T230000Z
+DTEND:20260221T010000Z
+DTSTAMP:20260201T213613Z
+UID:3071289030444277702@futbol-calendar.github.io
+DESCRIPTION:Competencia: Liga Profesional de Fútbol\nLocal: Boca Juniors\
+ nVisitante: Racing Club\nEstadio: Por confirmar\n\nCalendario generado aut
+ omaticamente
+LOCATION:Por confirmar
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Vélez Sarsfield vs River Plate (Liga Profesional de Fútbol)
+DTSTART:20260222T213000Z
+DTEND:20260222T233000Z
+DTSTAMP:20260201T213613Z
+UID:3438775734446751047@futbol-calendar.github.io
+DESCRIPTION:Competencia: Liga Profesional de Fútbol\nLocal: Vélez Sarsfi
+ eld\nVisitante: River Plate\nEstadio: Por confirmar\n\nCalendario generado
+  automaticamente
+LOCATION:Por confirmar
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Boca Juniors vs GIMNASIA CHIVILCOY (Copa Argentina)
+DTSTART:20260224T030000Z
+DTEND:20260224T050000Z
+DTSTAMP:20260201T213613Z
+UID:2112217223056739172@futbol-calendar.github.io
+DESCRIPTION:Competencia: Copa Argentina\nLocal: Boca Juniors\nVisitante: G
+ IMNASIA CHIVILCOY\nEstadio: Por confirmar\n\nCalendario generado automatic
+ amente
+LOCATION:Por confirmar
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Lanús vs Boca Juniors (Liga Profesional de Fútbol)
+DTSTART:20260225T030000Z
+DTEND:20260225T050000Z
+DTSTAMP:20260201T213613Z
+UID:1220439426343826765@futbol-calendar.github.io
+DESCRIPTION:Competencia: Liga Profesional de Fútbol\nLocal: Lanús\nVisit
+ ante: Boca Juniors\nEstadio: Por confirmar\n\nCalendario generado automati
+ camente
+LOCATION:Por confirmar
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:River Plate vs Banfield (Liga Profesional de Fútbol)
+DTSTART:20260226T223000Z
+DTEND:20260227T003000Z
+DTSTAMP:20260201T213613Z
+UID:8012785903300886910@futbol-calendar.github.io
+DESCRIPTION:Competencia: Liga Profesional de Fútbol\nLocal: River Plate\n
+ Visitante: Banfield\nEstadio: Por confirmar\n\nCalendario generado automat
+ icamente
+LOCATION:Por confirmar
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Boca Juniors vs Gimnasia (Mendoza) (Liga Profesional de Fútbol)
+DTSTART:20260228T204500Z
+DTEND:20260228T224500Z
+DTSTAMP:20260201T213613Z
+UID:9177026204193080860@futbol-calendar.github.io
+DESCRIPTION:Competencia: Liga Profesional de Fútbol\nLocal: Boca Juniors\
+ nVisitante: Gimnasia (Mendoza)\nEstadio: Por confirmar\n\nCalendario gener
+ ado automaticamente
+LOCATION:Por confirmar
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Independiente Rivadavia vs River Plate (Liga Profesional de Fútbo
+ l)
+DTSTART:20260303T003000Z
+DTEND:20260303T023000Z
+DTSTAMP:20260201T213613Z
+UID:7887516696391643588@futbol-calendar.github.io
+DESCRIPTION:Competencia: Liga Profesional de Fútbol\nLocal: Independiente
+  Rivadavia\nVisitante: River Plate\nEstadio: Por confirmar\n\nCalendario g
+ enerado automaticamente
+LOCATION:Por confirmar
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Central Córdoba (Santiago del Estero) vs Boca Juniors (Liga Profe
+ sional de Fútbol)
+DTSTART:20260308T221500Z
+DTEND:20260309T001500Z
+DTSTAMP:20260201T213613Z
+UID:7792822285876334818@futbol-calendar.github.io
+DESCRIPTION:Competencia: Liga Profesional de Fútbol\nLocal: Central Córd
+ oba (Santiago del Estero)\nVisitante: Boca Juniors\nEstadio: Por confirmar
+ \n\nCalendario generado automaticamente
+LOCATION:Por confirmar
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:River Plate vs Atlético Tucumán (Liga Profesional de Fútbol)
+DTSTART:20260309T001500Z
+DTEND:20260309T021500Z
+DTSTAMP:20260201T213613Z
+UID:5180831861118721750@futbol-calendar.github.io
+DESCRIPTION:Competencia: Liga Profesional de Fútbol\nLocal: River Plate\n
+ Visitante: Atlético Tucumán\nEstadio: Por confirmar\n\nCalendario genera
+ do automaticamente
+LOCATION:Por confirmar
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Boca Juniors vs San Lorenzo (Liga Profesional de Fútbol)
+DTSTART:20260311T224500Z
+DTEND:20260312T004500Z
+DTSTAMP:20260201T213613Z
+UID:6909908628317011883@futbol-calendar.github.io
+DESCRIPTION:Competencia: Liga Profesional de Fútbol\nLocal: Boca Juniors\
+ nVisitante: San Lorenzo\nEstadio: Por confirmar\n\nCalendario generado aut
+ omaticamente
+LOCATION:Por confirmar
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Huracán vs River Plate (Liga Profesional de Fútbol)
+DTSTART:20260313T003000Z
+DTEND:20260313T023000Z
+DTSTAMP:20260201T213613Z
+UID:4415508229423066020@futbol-calendar.github.io
+DESCRIPTION:Competencia: Liga Profesional de Fútbol\nLocal: Huracán\nVis
+ itante: River Plate\nEstadio: Por confirmar\n\nCalendario generado automat
+ icamente
+LOCATION:Por confirmar
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:River Plate vs Sarmiento (Junín) (Liga Profesional de Fútbol)
+DTSTART:20260315T224500Z
+DTEND:20260316T004500Z
+DTSTAMP:20260201T213613Z
+UID:5197646593701775102@futbol-calendar.github.io
+DESCRIPTION:Competencia: Liga Profesional de Fútbol\nLocal: River Plate\n
+ Visitante: Sarmiento (Junín)\nEstadio: Por confirmar\n\nCalendario genera
+ do automaticamente
+LOCATION:Por confirmar
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Unión (Santa Fe) vs Boca Juniors (Liga Profesional de Fútbol)
+DTSTART:20260316T010000Z
+DTEND:20260316T030000Z
+DTSTAMP:20260201T213613Z
+UID:2854353476607143197@futbol-calendar.github.io
+DESCRIPTION:Competencia: Liga Profesional de Fútbol\nLocal: Unión (Santa
+  Fe)\nVisitante: Boca Juniors\nEstadio: Por confirmar\n\nCalendario genera
+ do automaticamente
+LOCATION:Por confirmar
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Estudiantes de Río Cuarto vs River Plate (Liga Profesional de Fú
+ tbol)
+DTSTART:20260322T204500Z
+DTEND:20260322T224500Z
+DTSTAMP:20260201T213613Z
+UID:3981435863417710946@futbol-calendar.github.io
+DESCRIPTION:Competencia: Liga Profesional de Fútbol\nLocal: Estudiantes d
+ e Río Cuarto\nVisitante: River Plate\nEstadio: Por confirmar\n\nCalendari
+ o generado automaticamente
+LOCATION:Por confirmar
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Boca Juniors vs Instituto (Córdoba) (Liga Profesional de Fútbol)
+DTSTART:20260322T230000Z
+DTEND:20260323T010000Z
+DTSTAMP:20260201T213613Z
+UID:37699401508473234@futbol-calendar.github.io
+DESCRIPTION:Competencia: Liga Profesional de Fútbol\nLocal: Boca Juniors\
+ nVisitante: Instituto (Córdoba)\nEstadio: Por confirmar\n\nCalendario gen
+ erado automaticamente
+LOCATION:Por confirmar
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Argentina vs Espana (Finalissima 2026 (CONMEBOL-UEFA))
+DTSTART:20260327T180000Z
+DTEND:20260327T200000Z
+DTSTAMP:20260201T213613Z
+UID:6693991153353094512@futbol-calendar.github.io
+DESCRIPTION:Competencia: Finalissima 2026 (CONMEBOL-UEFA)\nLocal: Argentin
+ a\nVisitante: Espana\nEstadio: Estadio Lusail\, Qatar\n\nCalendario genera
+ do automaticamente
+LOCATION:Estadio Lusail\, Qatar
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Qatar vs Argentina (International Friendly)
+DTSTART:20260331T030000Z
+DTEND:20260331T050000Z
+DTSTAMP:20260201T213613Z
+UID:8398807244732909779@futbol-calendar.github.io
+DESCRIPTION:Competencia: International Friendly\nLocal: Qatar\nVisitante: 
+ Argentina\nEstadio: Por confirmar\n\nCalendario generado automaticamente
+LOCATION:Por confirmar
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:River Plate vs Belgrano (Córdoba) (Liga Profesional de Fútbol)
+DTSTART:20260405T030000Z
+DTEND:20260405T050000Z
+DTSTAMP:20260201T213613Z
+UID:3811166984399824278@futbol-calendar.github.io
+DESCRIPTION:Competencia: Liga Profesional de Fútbol\nLocal: River Plate\n
+ Visitante: Belgrano (Córdoba)\nEstadio: Por confirmar\n\nCalendario gener
+ ado automaticamente
+LOCATION:Por confirmar
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Talleres (Córdoba) vs Boca Juniors (Liga Profesional de Fútbol)
+DTSTART:20260405T030000Z
+DTEND:20260405T050000Z
+DTSTAMP:20260201T213613Z
+UID:7942275054027814964@futbol-calendar.github.io
+DESCRIPTION:Competencia: Liga Profesional de Fútbol\nLocal: Talleres (Có
+ rdoba)\nVisitante: Boca Juniors\nEstadio: Por confirmar\n\nCalendario gene
+ rado automaticamente
+LOCATION:Por confirmar
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Racing Club vs River Plate (Liga Profesional de Fútbol)
+DTSTART:20260412T030000Z
+DTEND:20260412T050000Z
+DTSTAMP:20260201T213613Z
+UID:8567226778267650712@futbol-calendar.github.io
+DESCRIPTION:Competencia: Liga Profesional de Fútbol\nLocal: Racing Club\n
+ Visitante: River Plate\nEstadio: Por confirmar\n\nCalendario generado auto
+ maticamente
+LOCATION:Por confirmar
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Boca Juniors vs Independiente (Liga Profesional de Fútbol)
+DTSTART:20260412T030000Z
+DTEND:20260412T050000Z
+DTSTAMP:20260201T213613Z
+UID:3782151789785394147@futbol-calendar.github.io
+DESCRIPTION:Competencia: Liga Profesional de Fútbol\nLocal: Boca Juniors\
+ nVisitante: Independiente\nEstadio: Por confirmar\n\nCalendario generado a
+ utomaticamente
+LOCATION:Por confirmar
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:River Plate vs Boca Juniors (Liga Profesional de Fútbol)
+DTSTART:20260419T030000Z
+DTEND:20260419T050000Z
+DTSTAMP:20260201T213613Z
+UID:7847775830074126960@futbol-calendar.github.io
+DESCRIPTION:Competencia: Liga Profesional de Fútbol\nLocal: River Plate\n
+ Visitante: Boca Juniors\nEstadio: Por confirmar\n\nCalendario generado aut
+ omaticamente
+LOCATION:Por confirmar
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:River Plate vs Aldosivi (Liga Profesional de Fútbol)
+DTSTART:20260426T030000Z
+DTEND:20260426T050000Z
+DTSTAMP:20260201T213613Z
+UID:4495102460801723342@futbol-calendar.github.io
+DESCRIPTION:Competencia: Liga Profesional de Fútbol\nLocal: River Plate\n
+ Visitante: Aldosivi\nEstadio: Por confirmar\n\nCalendario generado automat
+ icamente
+LOCATION:Por confirmar
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Defensa y Justicia vs Boca Juniors (Liga Profesional de Fútbol)
+DTSTART:20260426T030000Z
+DTEND:20260426T050000Z
+DTSTAMP:20260201T213613Z
+UID:3019679911126026456@futbol-calendar.github.io
+DESCRIPTION:Competencia: Liga Profesional de Fútbol\nLocal: Defensa y Jus
+ ticia\nVisitante: Boca Juniors\nEstadio: Por confirmar\n\nCalendario gener
+ ado automaticamente
+LOCATION:Por confirmar
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Argentina vs Algeria (FIFA World Cup)
+DTSTART:20260617T000000Z
+DTEND:20260617T020000Z
+DTSTAMP:20260201T213613Z
+UID:449309817724753662@futbol-calendar.github.io
+DESCRIPTION:Competencia: FIFA World Cup\nLocal: Argentina\nVisitante: Alge
+ ria\nEstadio: Por confirmar\n\nCalendario generado automaticamente
+LOCATION:Por confirmar
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Argentina vs Austria (FIFA World Cup)
+DTSTART:20260622T160000Z
+DTEND:20260622T180000Z
+DTSTAMP:20260201T213613Z
+UID:3756799969812494754@futbol-calendar.github.io
+DESCRIPTION:Competencia: FIFA World Cup\nLocal: Argentina\nVisitante: Aust
+ ria\nEstadio: Por confirmar\n\nCalendario generado automaticamente
+LOCATION:Por confirmar
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Jordan vs Argentina (FIFA World Cup)
+DTSTART:20260628T010000Z
+DTEND:20260628T030000Z
+DTSTAMP:20260201T213613Z
+UID:6707843804387030725@futbol-calendar.github.io
+DESCRIPTION:Competencia: FIFA World Cup\nLocal: Jordan\nVisitante: Argenti
+ na\nEstadio: Por confirmar\n\nCalendario generado automaticamente
+LOCATION:Por confirmar
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:River Plate vs Barracas Central (Liga Profesional de Fútbol)
+DTSTART:20260726T190000Z
+DTEND:20260726T210000Z
+DTSTAMP:20260201T213613Z
+UID:3785991603488711778@futbol-calendar.github.io
+DESCRIPTION:Competencia: Liga Profesional de Fútbol\nLocal: River Plate\n
+ Visitante: Barracas Central\nEstadio: Por confirmar\n\nCalendario generado
+  automaticamente
+LOCATION:Por confirmar
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Deportivo Riestra vs Boca Juniors (Liga Profesional de Fútbol)
+DTSTART:20260726T190000Z
+DTEND:20260726T210000Z
+DTSTAMP:20260201T213613Z
+UID:288222685543419864@futbol-calendar.github.io
+DESCRIPTION:Competencia: Liga Profesional de Fútbol\nLocal: Deportivo Rie
+ stra\nVisitante: Boca Juniors\nEstadio: Por confirmar\n\nCalendario genera
+ do automaticamente
+LOCATION:Por confirmar
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Gimnasia La Plata vs River Plate (Liga Profesional de Fútbol)
+DTSTART:20260729T190000Z
+DTEND:20260729T210000Z
+DTSTAMP:20260201T213613Z
+UID:2441768405296588029@futbol-calendar.github.io
+DESCRIPTION:Competencia: Liga Profesional de Fútbol\nLocal: Gimnasia La P
+ lata\nVisitante: River Plate\nEstadio: Por confirmar\n\nCalendario generad
+ o automaticamente
+LOCATION:Por confirmar
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Boca Juniors vs Estudiantes de La Plata (Liga Profesional de Fútb
+ ol)
+DTSTART:20260729T190000Z
+DTEND:20260729T210000Z
+DTSTAMP:20260201T213613Z
+UID:3412996248800130801@futbol-calendar.github.io
+DESCRIPTION:Competencia: Liga Profesional de Fútbol\nLocal: Boca Juniors\
+ nVisitante: Estudiantes de La Plata\nEstadio: Por confirmar\n\nCalendario 
+ generado automaticamente
+LOCATION:Por confirmar
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:River Plate vs Rosario Central (Liga Profesional de Fútbol)
+DTSTART:20260802T190000Z
+DTEND:20260802T210000Z
+DTSTAMP:20260201T213613Z
+UID:775678407549710624@futbol-calendar.github.io
+DESCRIPTION:Competencia: Liga Profesional de Fútbol\nLocal: River Plate\n
+ Visitante: Rosario Central\nEstadio: Por confirmar\n\nCalendario generado 
+ automaticamente
+LOCATION:Por confirmar
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Newell's Old Boys vs Boca Juniors (Liga Profesional de Fútbol)
+DTSTART:20260802T190000Z
+DTEND:20260802T210000Z
+DTSTAMP:20260201T213613Z
+UID:889407732641071920@futbol-calendar.github.io
+DESCRIPTION:Competencia: Liga Profesional de Fútbol\nLocal: Newell's Old 
+ Boys\nVisitante: Boca Juniors\nEstadio: Por confirmar\n\nCalendario genera
+ do automaticamente
+LOCATION:Por confirmar
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Tigre vs River Plate (Liga Profesional de Fútbol)
+DTSTART:20260809T190000Z
+DTEND:20260809T210000Z
+DTSTAMP:20260201T213613Z
+UID:903510635888339138@futbol-calendar.github.io
+DESCRIPTION:Competencia: Liga Profesional de Fútbol\nLocal: Tigre\nVisita
+ nte: River Plate\nEstadio: Por confirmar\n\nCalendario generado automatica
+ mente
+LOCATION:Por confirmar
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Boca Juniors vs Vélez Sarsfield (Liga Profesional de Fútbol)
+DTSTART:20260809T190000Z
+DTEND:20260809T210000Z
+DTSTAMP:20260201T213613Z
+UID:8149430685357499609@futbol-calendar.github.io
+DESCRIPTION:Competencia: Liga Profesional de Fútbol\nLocal: Boca Juniors\
+ nVisitante: Vélez Sarsfield\nEstadio: Por confirmar\n\nCalendario generad
+ o automaticamente
+LOCATION:Por confirmar
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:River Plate vs Argentinos Juniors (Liga Profesional de Fútbol)
+DTSTART:20260816T190000Z
+DTEND:20260816T210000Z
+DTSTAMP:20260201T213613Z
+UID:4410355090099496651@futbol-calendar.github.io
+DESCRIPTION:Competencia: Liga Profesional de Fútbol\nLocal: River Plate\n
+ Visitante: Argentinos Juniors\nEstadio: Por confirmar\n\nCalendario genera
+ do automaticamente
+LOCATION:Por confirmar
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Platense vs Boca Juniors (Liga Profesional de Fútbol)
+DTSTART:20260816T190000Z
+DTEND:20260816T210000Z
+DTSTAMP:20260201T213613Z
+UID:8239988938588110242@futbol-calendar.github.io
+DESCRIPTION:Competencia: Liga Profesional de Fútbol\nLocal: Platense\nVis
+ itante: Boca Juniors\nEstadio: Por confirmar\n\nCalendario generado automa
+ ticamente
+LOCATION:Por confirmar
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:River Plate vs Vélez Sarsfield (Liga Profesional de Fútbol)
+DTSTART:20260823T190000Z
+DTEND:20260823T210000Z
+DTSTAMP:20260201T213613Z
+UID:4239429797334588245@futbol-calendar.github.io
+DESCRIPTION:Competencia: Liga Profesional de Fútbol\nLocal: River Plate\n
+ Visitante: Vélez Sarsfield\nEstadio: Por confirmar\n\nCalendario generado
+  automaticamente
+LOCATION:Por confirmar
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Racing Club vs Boca Juniors (Liga Profesional de Fútbol)
+DTSTART:20260823T190000Z
+DTEND:20260823T210000Z
+DTSTAMP:20260201T213613Z
+UID:2643397710833658699@futbol-calendar.github.io
+DESCRIPTION:Competencia: Liga Profesional de Fútbol\nLocal: Racing Club\n
+ Visitante: Boca Juniors\nEstadio: Por confirmar\n\nCalendario generado aut
+ omaticamente
+LOCATION:Por confirmar
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Banfield vs River Plate (Liga Profesional de Fútbol)
+DTSTART:20260830T190000Z
+DTEND:20260830T210000Z
+DTSTAMP:20260201T213613Z
+UID:3880008757833958537@futbol-calendar.github.io
+DESCRIPTION:Competencia: Liga Profesional de Fútbol\nLocal: Banfield\nVis
+ itante: River Plate\nEstadio: Por confirmar\n\nCalendario generado automat
+ icamente
+LOCATION:Por confirmar
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Boca Juniors vs Lanús (Liga Profesional de Fútbol)
+DTSTART:20260830T190000Z
+DTEND:20260830T210000Z
+DTSTAMP:20260201T213613Z
+UID:4300365994625320752@futbol-calendar.github.io
+DESCRIPTION:Competencia: Liga Profesional de Fútbol\nLocal: Boca Juniors\
+ nVisitante: Lanús\nEstadio: Por confirmar\n\nCalendario generado automati
+ camente
+LOCATION:Por confirmar
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:River Plate vs Independiente Rivadavia (Liga Profesional de Fútbo
+ l)
+DTSTART:20260906T190000Z
+DTEND:20260906T210000Z
+DTSTAMP:20260201T213613Z
+UID:9131867506825693339@futbol-calendar.github.io
+DESCRIPTION:Competencia: Liga Profesional de Fútbol\nLocal: River Plate\n
+ Visitante: Independiente Rivadavia\nEstadio: Por confirmar\n\nCalendario g
+ enerado automaticamente
+LOCATION:Por confirmar
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Gimnasia (Mendoza) vs Boca Juniors (Liga Profesional de Fútbol)
+DTSTART:20260906T190000Z
+DTEND:20260906T210000Z
+DTSTAMP:20260201T213613Z
+UID:5981488666513349711@futbol-calendar.github.io
+DESCRIPTION:Competencia: Liga Profesional de Fútbol\nLocal: Gimnasia (Men
+ doza)\nVisitante: Boca Juniors\nEstadio: Por confirmar\n\nCalendario gener
+ ado automaticamente
+LOCATION:Por confirmar
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Atlético Tucumán vs River Plate (Liga Profesional de Fútbol)
+DTSTART:20260913T190000Z
+DTEND:20260913T210000Z
+DTSTAMP:20260201T213613Z
+UID:3802824906983213744@futbol-calendar.github.io
+DESCRIPTION:Competencia: Liga Profesional de Fútbol\nLocal: Atlético Tuc
+ umán\nVisitante: River Plate\nEstadio: Por confirmar\n\nCalendario genera
+ do automaticamente
+LOCATION:Por confirmar
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Boca Juniors vs Central Córdoba (Santiago del Estero) (Liga Profe
+ sional de Fútbol)
+DTSTART:20260913T190000Z
+DTEND:20260913T210000Z
+DTSTAMP:20260201T213613Z
+UID:4934812151515208416@futbol-calendar.github.io
+DESCRIPTION:Competencia: Liga Profesional de Fútbol\nLocal: Boca Juniors\
+ nVisitante: Central Córdoba (Santiago del Estero)\nEstadio: Por confirmar
+ \n\nCalendario generado automaticamente
+LOCATION:Por confirmar
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:River Plate vs Huracán (Liga Profesional de Fútbol)
+DTSTART:20260920T190000Z
+DTEND:20260920T210000Z
+DTSTAMP:20260201T213613Z
+UID:4681898314822556559@futbol-calendar.github.io
+DESCRIPTION:Competencia: Liga Profesional de Fútbol\nLocal: River Plate\n
+ Visitante: Huracán\nEstadio: Por confirmar\n\nCalendario generado automat
+ icamente
+LOCATION:Por confirmar
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:San Lorenzo vs Boca Juniors (Liga Profesional de Fútbol)
+DTSTART:20260920T190000Z
+DTEND:20260920T210000Z
+DTSTAMP:20260201T213613Z
+UID:6058429470556143080@futbol-calendar.github.io
+DESCRIPTION:Competencia: Liga Profesional de Fútbol\nLocal: San Lorenzo\n
+ Visitante: Boca Juniors\nEstadio: Por confirmar\n\nCalendario generado aut
+ omaticamente
+LOCATION:Por confirmar
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Sarmiento (Junín) vs River Plate (Liga Profesional de Fútbol)
+DTSTART:20261004T190000Z
+DTEND:20261004T210000Z
+DTSTAMP:20260201T213613Z
+UID:7275569998016897035@futbol-calendar.github.io
+DESCRIPTION:Competencia: Liga Profesional de Fútbol\nLocal: Sarmiento (Ju
+ nín)\nVisitante: River Plate\nEstadio: Por confirmar\n\nCalendario genera
+ do automaticamente
+LOCATION:Por confirmar
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Boca Juniors vs Unión (Santa Fe) (Liga Profesional de Fútbol)
+DTSTART:20261004T190000Z
+DTEND:20261004T210000Z
+DTSTAMP:20260201T213613Z
+UID:6363569177852843305@futbol-calendar.github.io
+DESCRIPTION:Competencia: Liga Profesional de Fútbol\nLocal: Boca Juniors\
+ nVisitante: Unión (Santa Fe)\nEstadio: Por confirmar\n\nCalendario genera
+ do automaticamente
+LOCATION:Por confirmar
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:River Plate vs Estudiantes de Río Cuarto (Liga Profesional de Fú
+ tbol)
+DTSTART:20261011T190000Z
+DTEND:20261011T210000Z
+DTSTAMP:20260201T213613Z
+UID:8677322520120128406@futbol-calendar.github.io
+DESCRIPTION:Competencia: Liga Profesional de Fútbol\nLocal: River Plate\n
+ Visitante: Estudiantes de Río Cuarto\nEstadio: Por confirmar\n\nCalendari
+ o generado automaticamente
+LOCATION:Por confirmar
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Instituto (Córdoba) vs Boca Juniors (Liga Profesional de Fútbol)
+DTSTART:20261011T190000Z
+DTEND:20261011T210000Z
+DTSTAMP:20260201T213613Z
+UID:7387847718528866246@futbol-calendar.github.io
+DESCRIPTION:Competencia: Liga Profesional de Fútbol\nLocal: Instituto (C
+ órdoba)\nVisitante: Boca Juniors\nEstadio: Por confirmar\n\nCalendario ge
+ nerado automaticamente
+LOCATION:Por confirmar
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Belgrano (Córdoba) vs River Plate (Liga Profesional de Fútbol)
+DTSTART:20261018T190000Z
+DTEND:20261018T210000Z
+DTSTAMP:20260201T213613Z
+UID:888978659392057313@futbol-calendar.github.io
+DESCRIPTION:Competencia: Liga Profesional de Fútbol\nLocal: Belgrano (Có
+ rdoba)\nVisitante: River Plate\nEstadio: Por confirmar\n\nCalendario gener
+ ado automaticamente
+LOCATION:Por confirmar
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Boca Juniors vs Talleres (Córdoba) (Liga Profesional de Fútbol)
+DTSTART:20261018T190000Z
+DTEND:20261018T210000Z
+DTSTAMP:20260201T213613Z
+UID:6280379469510493115@futbol-calendar.github.io
+DESCRIPTION:Competencia: Liga Profesional de Fútbol\nLocal: Boca Juniors\
+ nVisitante: Talleres (Córdoba)\nEstadio: Por confirmar\n\nCalendario gene
+ rado automaticamente
+LOCATION:Por confirmar
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:River Plate vs Racing Club (Liga Profesional de Fútbol)
+DTSTART:20261025T200000Z
+DTEND:20261025T220000Z
+DTSTAMP:20260201T213613Z
+UID:7346958955986422842@futbol-calendar.github.io
+DESCRIPTION:Competencia: Liga Profesional de Fútbol\nLocal: River Plate\n
+ Visitante: Racing Club\nEstadio: Por confirmar\n\nCalendario generado auto
+ maticamente
+LOCATION:Por confirmar
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Independiente vs Boca Juniors (Liga Profesional de Fútbol)
+DTSTART:20261025T200000Z
+DTEND:20261025T220000Z
+DTSTAMP:20260201T213613Z
+UID:5948851784002310309@futbol-calendar.github.io
+DESCRIPTION:Competencia: Liga Profesional de Fútbol\nLocal: Independiente
+ \nVisitante: Boca Juniors\nEstadio: Por confirmar\n\nCalendario generado a
+ utomaticamente
+LOCATION:Por confirmar
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Boca Juniors vs River Plate (Liga Profesional de Fútbol)
+DTSTART:20261101T200000Z
+DTEND:20261101T220000Z
+DTSTAMP:20260201T213613Z
+UID:796426739505222913@futbol-calendar.github.io
+DESCRIPTION:Competencia: Liga Profesional de Fútbol\nLocal: Boca Juniors\
+ nVisitante: River Plate\nEstadio: Por confirmar\n\nCalendario generado aut
+ omaticamente
+LOCATION:Por confirmar
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Aldosivi vs River Plate (Liga Profesional de Fútbol)
+DTSTART:20261108T200000Z
+DTEND:20261108T220000Z
+DTSTAMP:20260201T213613Z
+UID:1428876560849924670@futbol-calendar.github.io
+DESCRIPTION:Competencia: Liga Profesional de Fútbol\nLocal: Aldosivi\nVis
+ itante: River Plate\nEstadio: Por confirmar\n\nCalendario generado automat
+ icamente
+LOCATION:Por confirmar
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Boca Juniors vs Defensa y Justicia (Liga Profesional de Fútbol)
+DTSTART:20261108T200000Z
+DTEND:20261108T220000Z
+DTSTAMP:20260201T213613Z
+UID:8479092114106152036@futbol-calendar.github.io
+DESCRIPTION:Competencia: Liga Profesional de Fútbol\nLocal: Boca Juniors\
+ nVisitante: Defensa y Justicia\nEstadio: Por confirmar\n\nCalendario gener
+ ado automaticamente
+LOCATION:Por confirmar
+END:VEVENT
+END:VCALENDAR
