@@ -1,0 +1,95 @@
+name: Update Football Calendar
+
+  on:
+    schedule:
+      - cron: '0 6 * * *'
+    workflow_dispatch:
+    push:
+      branches:
+        - main
+
+  permissions:
+    contents: write
+    pages: write
+    id-token: write
+
+  jobs:
+    update-calendar:
+      runs-on: ubuntu-latest
+
+      steps:
+        - name: Checkout repository
+          uses: actions/checkout@v4
+
+        - name: Set up Python
+          uses: actions/setup-python@v5
+          with:
+            python-version: '3.11'
+
+        - name: Install dependencies
+          run: pip install -r requirements.txt
+
+        - name: Generate calendar
+          run: python generate_calendar.py
+
+        - name: Prepare public directory
+          run: |
+            mkdir -p public
+            cp futbol-argentina.ics public/
+            cat > public/index.html << 'EOF'
+            <!DOCTYPE html>
+            <html lang="es">
+            <head>
+                <meta charset="UTF-8">
+                <meta name="viewport" content="width=device-width, initial-scale=1.0">
+                <title>Calendario Futbol Argentina</title>
+                <style>
+                    body { font-family: -apple-system, sans-serif; max-width: 800px; margin: 0 auto; padding: 20px; background: linear-gradient(135deg, #667eea, #764ba2); min-height: 100vh; }
+                    .container { background: white; border-radius: 16px; padding: 40px; box-shadow: 0 20px 60px rgba(0,0,0,0.3); }
+                    h1 { text-align: center; }
+                    .teams { display: flex; justify-content: center; gap: 20px; margin: 20px 0; flex-wrap: wrap; }
+                    .team { padding: 10px 20px; border-radius: 20px; font-weight: bold; }
+                    .river { background: #e74c3c; color: white; }
+                    .boca { background: #f1c40f; color: #2c3e50; }
+                    .argentina { background: #75b7e8; color: white; }
+                    .url-box { background: #2c3e50; color: #00ff88; padding: 15px; border-radius: 8px; font-family: monospace; word-break: break-all; margin: 15px 0; }
+                    .btn { display: inline-block; background: #667eea; color: white; padding: 12px 24px; border-radius: 8px; text-decoration: none; margin: 10px 5px; }
+                </style>
+            </head>
+            <body>
+                <div class="container">
+                    <h1>Calendario Futbol Argentina</h1>
+                    <p style="text-align:center">Partidos de River, Boca y Argentina</p>
+                    <div class="teams">
+                        <span class="team river">River Plate</span>
+                        <span class="team boca">Boca Juniors</span>
+                        <span class="team argentina">Argentina</span>
+                    </div>
+                    <h3>URL del calendario:</h3>
+                    <div class="url-box" id="calendar-url"></div>
+                    <a href="futbol-argentina.ics" class="btn" download>Descargar .ics</a>
+                    <p style="text-align:center;margin-top:30px">Actualizado automaticamente todos los dias - Datos de ESPN</p>
+                </div>
+                <script>
+                    const baseUrl = window.location.href.replace(/\/[^\/]*$/, '');
+                    document.getElementById('calendar-url').textContent = baseUrl + '/futbol-argentina.ics';
+                </script>
+            </body>
+            </html>
+            EOF
+
+        - name: Upload artifact
+          uses: actions/upload-pages-artifact@v3
+          with:
+            path: public
+
+    deploy:
+      needs: update-calendar
+      runs-on: ubuntu-latest
+      environment:
+        name: github-pages
+        url: ${{ steps.deployment.outputs.page_url }}
+      steps:
+        - name: Deploy to GitHub Pages
+          id: deployment
+          uses: actions/deploy-pages@v4
