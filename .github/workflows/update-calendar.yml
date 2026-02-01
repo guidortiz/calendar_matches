@@ -26,8 +26,9 @@ jobs:
         with:
           python-version: '3.11'
 
+      # CORRECCIÓN 1: Instalamos librerías directo (más seguro que requirements.txt)
       - name: Install dependencies
-        run: python -m pip install -r requirements.txt
+        run: pip install icalendar pytz requests beautifulsoup4
 
       - name: Generate calendar
         run: python generate_calendar.py
@@ -35,7 +36,10 @@ jobs:
       - name: Prepare public directory
         run: |
           mkdir -p public
+          # Copiamos tu archivo real
           cp invite.ics public/
+          
+          # Creamos el HTML. CORRECCIÓN 2: Todos los links apuntan ahora a invite.ics
           cat > public/index.html << 'EOF'
           <!DOCTYPE html>
           <html lang="es">
@@ -67,4 +71,31 @@ jobs:
                   </div>
                   <h3>URL del calendario:</h3>
                   <div class="url-box" id="calendar-url"></div>
-                  <a href="futbol-argentina.ics" class="btn" download>Descargar .ics</a>
+                  <a href="invite.ics" class="btn" download>Descargar .ics</a>
+                  <p style="text-align:center;margin-top:30px;font-size:0.8em;color:#666">Actualizado automáticamente</p>
+              </div>
+              <script>
+                  const baseUrl = window.location.href.replace(/\/$/, ''); 
+                  // CORRECCIÓN JS: Apunta al archivo correcto
+                  document.getElementById('calendar-url').textContent = baseUrl + '/invite.ics';
+              </script>
+          </body>
+          </html>
+          EOF
+
+      - name: Upload artifact
+        uses: actions/upload-pages-artifact@v3
+        with:
+          path: public
+
+  # CORRECCIÓN 3: Faltaba todo este bloque de Deploy
+  deploy:
+    needs: update-calendar
+    runs-on: ubuntu-latest
+    environment:
+      name: github-pages
+      url: ${{ steps.deployment.outputs.page_url }}
+    steps:
+      - name: Deploy to GitHub Pages
+        id: deployment
+        uses: actions/deploy-pages@v4
